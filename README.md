@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kaz2024
 - 👀 I’m interested in video editing and travelling. 
-- 🌱 I’m currently learning to code as a beginner, still exploring and not sure if it is for me. 
+- 🌱 I’m currently learning to code as a beginner, still exploring !!
 - 💞️ I’m looking to collaborate on new projects. 
 - 📫 How to reach me on here!!
 
