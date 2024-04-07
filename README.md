@@ -4,7 +4,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 </h1>
 </div>
 
-👋 Hi, I’m Kathey. A keen, motivated, junior software engineer with an ambition for a new career in the tech industry.
+👋 Hello from Essex. A keen, motivated, junior software engineer with an ambition for a new career in the tech industry.
  
 - 🔍 Looking for opportunities in the tech industry as a Junior software Engineer.
 - 💞️ I’m looking to collaborate on new projects. 
