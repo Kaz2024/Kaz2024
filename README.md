@@ -1,3 +1,11 @@
+<div id="header" align="center">
+<h1>
+Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">.
+</h1>
+<img src='https://avataaars.io/?avatarStyle=Circle&topType=ShortHairShortFlat&accessoriesType=Prescription02&hairColor=Brown&facialHairType=BeardLight&facialHairColor=Brown&clotheType=ShirtCrewNeck&clotheColor=Gray02&eyeType=Default&eyebrowType=RaisedExcitedNatural&mouthType=Default&skinColor=Pale'
+width="200"/>
+</div>
+
 👋 Hi, I’m Kathey. A keen, motivated, junior software engineer with an ambition for a new career in the tech industry.
 - 👀 I’m interested in video editing and travelling. 
 - 🔍 Looking for opportunities in the tech industry as a Junior software Engineer.
