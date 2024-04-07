@@ -11,7 +11,7 @@ Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=
 - 💞️ I’m looking to collaborate on new projects. 
 - 📫 I'm reachable at kathey.qianlin.zhang@gmail.com
 - 👀 I’m interested in video editing and travelling.
-- * 📝 My CVs can be found here: [Github] | [Standard]
+- 📝 My CVs can be found here: [Github] | [Standard]
 
 <!---
 Kaz2024/Kaz2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
